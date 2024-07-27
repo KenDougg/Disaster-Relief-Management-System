@@ -1,0 +1,2 @@
+
+    float sum = 0;
